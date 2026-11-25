@@ -1,0 +1,46 @@
+Norse Organic — Shopify Storefront Study
+
+Projeto de estudo independente desenvolvido na plataforma Shopify, com inspiração na loja virtual Norse Organic.
+
+O objetivo foi explorar os recursos de personalização da Shopify e reproduzir uma página de e-commerce, trabalhando a organização visual, a criação de seções e a adaptação dos componentes disponíveis no tema.
+
+Nota: Projeto desenvolvido exclusivamente para fins educacionais, sem vínculo comercial, parceria ou afiliação com a marca Norse Organic.
+
+Sobre o projeto
+
+Durante o desenvolvimento, iniciei a construção utilizando o tema Down. Ao identificar limitações nos recursos disponíveis, migrei para o tema Horizon, que oferecia ferramentas mais adequadas às necessidades do projeto.
+
+A maior parte da página foi construída manualmente por meio das configurações visuais do editor de temas da Shopify.
+
+Um dos principais desafios foi encontrar soluções criativas para adaptar seções existentes a diferentes finalidades, mesmo quando o tema não oferecia componentes específicos para elas.
+
+Principais atividades
+
+Exploração e comparação dos temas Down e Horizon.
+Criação e personalização de diversas seções utilizando o editor visual.
+Adaptação de uma seção de múltiplas colunas para apresentar depoimentos de usuários.
+Reaproveitamento da seção de perguntas frequentes para apresentar informações sobre produtos e ingredientes.
+Personalização de cores e elementos visuais.
+Utilização da inteligência artificial integrada à Shopify como apoio na criação de uma seção de imagem com texto.
+Exploração dos recursos disponíveis e desenvolvimento de soluções alternativas para contornar limitações do tema.
+
+Ferramentas utilizadas
+
+Shopify: plataforma de e-commerce.
+Tema Horizon: tema utilizado na construção da página.
+Editor visual de temas: criação e personalização das seções.
+IA integrada à Shopify: apoio na criação de uma seção de imagem com texto.
+
+Desafios e aprendizados
+
+O principal desafio foi adaptar os componentes disponíveis para atender às necessidades do projeto.
+
+A criação de depoimentos e a apresentação de informações sobre ingredientes exigiram experimentação, criatividade e exploração das configurações do editor.
+
+Também identifiquei oportunidades de melhoria na personalização de detalhes visuais, como gradientes. Optei por concluir uma primeira versão do projeto e registrar esses pontos como oportunidades de aprendizado, em vez de prolongar o desenvolvimento em busca de uma versão perfeita.
+
+Essa experiência contribuiu para ampliar minha familiaridade com plataformas de e-commerce, personalização de interfaces e resolução criativa de problemas.
+_________________________________________________________________
+
+Status: Projeto de estudo concluído — primeira versão.
+Autoria: Taina Fernandes
